@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
 import './App.css';
 import { Home } from './pages/Home';
-import { Movies } from './pages/Movies';
+import Movies from './pages/Movies';
 import { Podcast } from './pages/Podcast';
 import { Navbar, Nav } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
